@@ -1,0 +1,26 @@
+/**/
+body{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(45, 176, 252);
+}
+
+button{
+    width: 300px;
+    height: 35px;
+    background-color:  rgba(101, 77, 236, 0.74);
+}
+
+div{
+   padding: 1%;
+   width: auto;
+   height: auto;
+}
+
+label{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 50;
+}
